@@ -1,0 +1,31 @@
+ball1 - kula
+ R - promieñ
+ n - iloœæ segmentów
+
+ball2 - kula
+ R - promieñ
+ n - iloœæ segmentów
+
+cone - sto¿ek
+ H - wysokoœæ
+ R - promieñ podstawy 1
+ r - promieñ podstawy 2
+
+cuboid - prostopad³oœcian
+ a - bok 1
+ b - bok 2
+ c - bok 3
+
+pyramid - ostros³up
+ A - bok podstawy 1
+ a - bok podstawy 2
+ H - wysokoœæ
+ n - iloœæ boków podstawy
+
+platonic solids - bry³y platoñskie:
+tetrahedron - czworoœcian
+hexahedron - szeœcian
+octahedron - oœmioœcian
+dodecahedron - dwunastoœcian
+icosahedron - dwudziestoœcian
+ a - bok (ka¿dy)
